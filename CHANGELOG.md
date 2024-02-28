@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.41.1](https://github.com/mdn/yari/compare/v2.41.0...v2.41.1) (2024-02-28)
+
+
+### Bug Fixes
+
+* **ai-help:** remove decorative images from a11y tree ([#10520](https://github.com/mdn/yari/issues/10520)) ([575420c](https://github.com/mdn/yari/commit/575420cf6100a94e3263d9834652a255660d9d1a))
+
 ## [2.41.0](https://github.com/mdn/yari/compare/v2.40.0...v2.41.0) (2024-02-28)
 
 
